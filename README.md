@@ -1,4 +1,4 @@
-# Stock Analysis of Top 6 S&P 500 Companies
+# Stock Analysis of Leading 6 S&P 500  Companies
 
 ## Introduction
 
